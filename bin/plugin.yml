@@ -1,0 +1,1 @@
+name: PluginDebugauthor: MrPixelDreamversion: 1.0description: This plugin helps you to deal with your plugins and debug the servermain: de.mrpixeldream.bukkit.pluginreloader.PluginReloadercommands:    plr:        usage: /plr <command> <plugin>    plist:        usage: /plist        description: Lists all compatible plugins
