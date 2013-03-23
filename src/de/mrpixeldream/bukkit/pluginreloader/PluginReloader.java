@@ -30,7 +30,7 @@ public class PluginReloader extends JavaPlugin
 	@Override
 	public void onDisable()
 	{
-		
+		// Empty. I don't need this :-)
 	}
 	
 	@Override
